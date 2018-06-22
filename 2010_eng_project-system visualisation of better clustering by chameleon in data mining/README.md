@@ -1,0 +1,1 @@
+This paper describes a project of a visualisation system which shows a better effect of clustering via [chameleon algorithm - a hierarchical clustering algorithm using dynamic modeling](https://www-users.cs.umn.edu/~hanxx023/dmclass/chameleon.pdf). The innovation is to use a raster method in order to remove noisy data that does not belong to any cluster. 
